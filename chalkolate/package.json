@@ -8,12 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tranht86/chalkolate.git"
+    "url": "git+https://github.com/tranht86/week1day5.git"
   },
   "author": "Henry T",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tranht86/chalkolate/issues"
+    "url": "https://github.com/tranht86/week1day5/issues"
   },
-  "homepage": "https://github.com/tranht86/chalkolate#readme"
+  "homepage": "https://github.com/tranht86/week1day5#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
 }
