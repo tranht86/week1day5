@@ -3,10 +3,10 @@ function countLetters(char) {
 }
 
 function repeatWord(word) {
-  console.log("You typed the word: " word);
+  console.log("You typed the word: " + word);
 }
 
 module.exports = {
-  countLetters: countLetters;
-  repeatWord: repeatWord;
+  countLetters: countLetters,
+  repeatWord: repeatWord
 }
